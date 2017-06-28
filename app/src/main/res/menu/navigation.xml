@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@mipmap/tab_recommend_gray"
+        android:title="@string/title_recommend" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@mipmap/tab_all_category_gray"
+        android:title="@string/title_all"
+
+        />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@mipmap/tab_my_course_gray"
+        android:title="@string/title_my" />
+
+</menu>
